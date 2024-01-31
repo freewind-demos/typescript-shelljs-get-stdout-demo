@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Shelljs Get "stdout" Demo
 ===========================
+
+用shelljs运行一个命令并拿到stdout
 
 ```
 npm install
 npm start
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
